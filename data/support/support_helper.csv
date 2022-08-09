@@ -1,0 +1,59 @@
+header,is_outcome,is_group_attribute,type,ordering
+Death_in_5Yr,TRUE,FALSE,categorical,NA
+age,FALSE,TRUE,categorical,NA
+sex,FALSE,TRUE,categorical,NA
+num.co>1.0,FALSE,FALSE,categorical,NA
+num.co>2.0,FALSE,FALSE,categorical,NA
+meanbp>68.0,FALSE,FALSE,categorical,NA
+meanbp>101.0,FALSE,FALSE,categorical,NA
+wblc>8.0,FALSE,FALSE,categorical,NA
+wblc>13.3984375,FALSE,FALSE,categorical,NA
+hrt>76.0,FALSE,FALSE,categorical,NA
+hrt>114.0,FALSE,FALSE,categorical,NA
+resp>20.0,FALSE,FALSE,categorical,NA
+resp>26.0,FALSE,FALSE,categorical,NA
+temp>36.29688,FALSE,FALSE,categorical,NA
+temp>37.79688,FALSE,FALSE,categorical,NA
+pafi>177.5,FALSE,FALSE,categorical,NA
+pafi>276.1875,FALSE,FALSE,categorical,NA
+alb>2.5,FALSE,FALSE,categorical,NA
+alb>3.2998047,FALSE,FALSE,categorical,NA
+bili>0.59997559,FALSE,FALSE,categorical,NA
+bili>1.39990234,FALSE,FALSE,categorical,NA
+crea>1.0,FALSE,FALSE,categorical,NA
+crea>1.59985352,FALSE,FALSE,categorical,NA
+sod>135.0,FALSE,FALSE,categorical,NA
+sod>140.0,FALSE,FALSE,categorical,NA
+ph>7.399414,FALSE,FALSE,categorical,NA
+ph>7.449219,FALSE,FALSE,categorical,NA
+glucose>110.0,FALSE,FALSE,categorical,NA
+glucose>167.0,FALSE,FALSE,categorical,NA
+bun>17.0,FALSE,FALSE,categorical,NA
+bun>34.0,FALSE,FALSE,categorical,NA
+urine>1419.7200000000003,FALSE,FALSE,categorical,NA
+urine>2600.0,FALSE,FALSE,categorical,NA
+adlp>0.0,FALSE,FALSE,categorical,NA
+adlp>1.0,FALSE,FALSE,categorical,NA
+adls>0.0,FALSE,FALSE,categorical,NA
+adls>2.0,FALSE,FALSE,categorical,NA
+dzgroup_ARF/MOSF w/Sepsis,FALSE,FALSE,categorical,NA
+dzgroup_CHF,FALSE,FALSE,categorical,NA
+dzgroup_COPD,FALSE,FALSE,categorical,NA
+dzgroup_Cirrhosis,FALSE,FALSE,categorical,NA
+dzgroup_Colon Cancer,FALSE,FALSE,categorical,NA
+dzgroup_Coma,FALSE,FALSE,categorical,NA
+dzgroup_Lung Cancer,FALSE,FALSE,categorical,NA
+dzgroup_MOSF w/Malig,FALSE,FALSE,categorical,NA
+dzclass_ARF/MOSF,FALSE,FALSE,categorical,NA
+dzclass_COPD/CHF/Cirrhosis,FALSE,FALSE,categorical,NA
+dzclass_Cancer,FALSE,FALSE,categorical,NA
+dzclass_Coma,FALSE,FALSE,categorical,NA
+income_$11-$25k,FALSE,FALSE,categorical,NA
+income_$25-$50k,FALSE,FALSE,categorical,NA
+income_>$50k,FALSE,FALSE,categorical,NA
+income_under $11k,FALSE,FALSE,categorical,NA
+race_non-white,FALSE,FALSE,categorical,NA
+race_white,FALSE,FALSE,categorical,NA
+ca_metastatic,FALSE,FALSE,categorical,NA
+ca_no,FALSE,FALSE,categorical,NA
+ca_yes,FALSE,FALSE,categorical,NA
