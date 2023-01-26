@@ -1,4 +1,4 @@
-# Participatory Personalization in Classification
+# Participatory Systems for Personalized Prediction
 
 
 ## Quickstart
